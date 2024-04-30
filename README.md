@@ -43,5 +43,6 @@ Some things about me:
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" />
 <a/>
 
+___
 
 ## Dont't forget to check my pinns... 😊
