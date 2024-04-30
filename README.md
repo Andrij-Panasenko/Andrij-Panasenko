@@ -6,7 +6,7 @@ Some things about me:
 - ⚡ Fun fact: I like what I do!
 
 ## My stack:
-
+<p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" />
 <a/>
@@ -42,7 +42,7 @@ Some things about me:
 <a href="https://nodejs.org/en/">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" />
 <a/>
-
+</p>
 ___
 
 ## Dont't forget to check my pinns... 😊
