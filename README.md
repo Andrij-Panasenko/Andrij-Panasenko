@@ -2,11 +2,11 @@
 ___
 Some things about me:
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: **andrii.panasenko1@gmail.com**
+- 📫 How to reach me: **andrii.panasenko1@gmail.com** or text me in LinkedId
 - ⚡ Fun fact: I like what I do!
 
 ## My stack:
-<p>
+<p align="center" justify="space-between">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" />
 <a/>
