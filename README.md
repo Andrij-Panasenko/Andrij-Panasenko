@@ -2,7 +2,7 @@
 ___
 Some things about me:
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: <a mailto="andrii.panasenko1@gmail.com">andrii.panasenko1@gmail.com</a>
+- 📫 How to reach me: **andrii.panasenko1@gmail.com**
 - ⚡ Fun fact: I like what I do!
 
 ## My stack:
