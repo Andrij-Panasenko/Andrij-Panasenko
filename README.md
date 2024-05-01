@@ -2,7 +2,7 @@
 ___
 Some things about me:
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: **andrii.panasenko1@gmail.com** or text me in <a href="https://www.linkedin.com/in/panasenko-andrii/">LinkedId</a>
+- 📫 How to reach me: **andrii.panasenko1@gmail.com** or text me in <a href="https://www.linkedin.com/in/panasenko-andrii/">LinkedIn</a>
 - ⚡ Fun fact: I like what I do!
 
 ## My stack:
