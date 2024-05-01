@@ -12,7 +12,7 @@ Some things about me:
 <a/>
   
 <a target="_blank" href="https://react.dev/">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50"/>
 <a/>
   
 <a target="__blank" href="https://redux.js.org/">
